@@ -1,0 +1,76 @@
+h1{
+	font-family:Tahoma,bold;
+	color:white;
+
+}
+.navbar{
+	background-color:#bfe292;
+
+}
+.ad {
+  padding-top:100px;
+  padding-bottom:200px;
+  margin-bottom: 30px;
+  color: inherit;
+
+  color:white;
+
+ 
+  
+}
+.home{
+  padding: 30px 15px;
+  padding-top:200px;
+  padding-bottom:200px;
+  margin-bottom: 30px;
+  color: white;
+  background-image:url('naturewall.jpg');
+  
+}
+
+.ad h1{
+	font-size:50;
+}
+
+
+ body{
+ 	 background-color: #eee;
+ }
+  
+
+p{
+	font:Tahoma,bold;
+	font-size:15;
+	color:black;
+}
+label{
+	color:white;
+}
+.uname{
+  position: relative;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+.about {
+  margin-bottom:0px;
+  padding-bottom:30%;
+  
+}
+.about h1{
+	color:black;
+}
+.top{
+	padding-left:90%;
+}
+.uname{
+	color:white;
+	background-color:#bfe292;
+	padding-right:10px;
+}
+.uname h6{
+	
+	
+}
+  
