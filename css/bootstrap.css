@@ -3872,6 +3872,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .nav > li > a:focus {
   text-decoration: none;
   background-color: #eee;
+
 }
 .nav > li.disabled > a {
   color: #777;
@@ -4487,10 +4488,12 @@ fieldset[disabled] .navbar-default .btn-link:focus {
   background-color: transparent;
 }
 .navbar-inverse .navbar-text {
-  color: #9d9d9d;
+  /*color: #9d9d9d;*/
+  color:white;
 }
 .navbar-inverse .navbar-nav > li > a {
   color: #9d9d9d;
+  color:white;
 }
 .navbar-inverse .navbar-nav > li > a:hover,
 .navbar-inverse .navbar-nav > li > a:focus {
@@ -4827,6 +4830,7 @@ a.badge:focus {
 .nav-pills > .active > a > .badge {
   color: #337ab7;
   background-color: #fff;
+
 }
 .list-group-item > .badge {
   float: right;

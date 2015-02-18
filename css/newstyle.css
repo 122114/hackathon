@@ -1,11 +1,16 @@
 h1{
-	font-family:Tahoma,bold;
+	font-family:Comic Sans Ms,bold;
 	color:white;
+  text-shadow:1px 2px black;
 
 }
 .navbar{
 	background-color:#bfe292;
-
+  
+}
+.navbar2{
+  background-color:#2a623d;
+  
 }
 .ad {
   padding-top:100px;
@@ -27,6 +32,7 @@ h1{
   background-image:url('naturewall.jpg');
   
 }
+
 
 .ad h1{
 	font-size:50;
@@ -69,8 +75,45 @@ label{
 	background-color:#bfe292;
 	padding-right:10px;
 }
-.uname h6{
-	
-	
+.foot .col-md-12{
+  background-color:#CCCCCC;
+  font-family: Verdana,bold;
 }
-  
+.home{
+  padding: 30px 15px;
+  padding-top:200px;
+  padding-bottom:200px;
+  margin-bottom: 30px;
+  color: white;
+  background-color: #74d600;
+}
+.usernamegoes h4{
+   color:white;
+   text-shadow:1px 2px black;
+}
+.usernamegoes{
+    padding-bottom: 10px;
+   
+}
+
+.navbar-inverse .navbar-nav > li > a {
+    color:white;
+}
+.aboutus {
+    background-color:#f4ffd6; 
+}
+.list-group-item{
+    background-color:#f4ffd6; 
+    
+}
+.list-group-item1{
+    background-color:##ccec75; 
+}
+.list-group-item.active,
+{
+  color: #337ab7;
+  background-color:#bfe292;;
+
+}
+
+
