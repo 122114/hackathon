@@ -142,7 +142,7 @@
                     
 
                     $command = "INSERT INTO accts(acctid,acctname,password,password2,email,company,address,status)VALUES('$id',$name','$password','$password2','$email','$company','$address')";
-                    mysqli_query($command);
+                    mysql_query($command);
                     echo"<script>alert('You are now registered!!!')</script>";
                             
                     /*if (!get_magic_quotes_gpc()) 
