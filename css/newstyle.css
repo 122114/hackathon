@@ -127,6 +127,7 @@ label{
 }
 .addbar label{
     color:black;
+
 }
 .listbar{
   color:black;
@@ -135,4 +136,7 @@ label{
 .listbar h2{
   color:black;
   padding-left:20; 
+}
+.col-md-2{
+  padding-bottom: 300px;
 }
