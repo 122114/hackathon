@@ -34,12 +34,11 @@
   <div class="container-fluid">
     <div>
       <ul class="nav navbar-nav">
-        <li><a href="#">Home</a></li>
+        <li><a href="home.php">Home</a></li>
         <li><a href="#">Events</a></li>
         <li><a href="#">Sponsors</a></li> 
         <li><a href="#">Tree Planters</a></li>
          <li class="active"><a href="AddBarangay.php">Barangays</a></li> 
-          <li><a href="#">Settigs</a></li>
       </ul>
     </div>
   </div>

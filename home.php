@@ -20,10 +20,10 @@
 <nav class="navbar navbar-default navbar-static-top">
   <div class="container-fluid">
  	<div class="row">
- 		 <div class="col-md-5"><h1>Hello World</h1></div>
+ 		 <div class="col-md-5"><img src = "finaltitle.jpg"/></div>
  		 <br>
     	 <div class="col-md-7"><form class="form-inline pull-right">
-  <div class="form-group">
+  <!--<div class="form-group">
  
     <label for="exampleInputName2">Username</label>
     <input type="text" class="form-control left-align" id="exampleInputName2">
@@ -32,26 +32,34 @@
     <label for="exampleInputEmail2">Password</label>
     <input type="password" class="form-control" id="exampleInputEmail2">
   </div>
-  <button type="submit" class="btn btn-default">Login</button>
+  <button type="submit" class="btn btn-default">Login</button>-->
 </form></div>
     <div>
   </div>
 </nav>
-<ul class="nav nav-tabs">
-  <li role="presentation"><a href="#">Home</a></li>
-  <li role="presentation"><a href="#">About</a></li>
-  <li role="presentation"><a href="#">Benefactors</a></li>
-  <li role="presentation"><a href="#">Events</a></li>
-</ul>
+<nav class="navbar2 navbar-inverse">
+ <div class="container-fluid">
+    <div>
+     <ul class="nav navbar-nav">
+        <li class="active"><a href="home.php">Home</a></li>
+        <li><a href="#">Events</a></li>
+        <li><a href="#">Sponsors</a></li> 
+        <li><a href="#">Tree Planters</a></li>
+         <li><a href="AddBarangay.php">Barangays</a></li> 
+         
+      </ul>
+    </div>
+  </div>
+</nav>
 
 	<div class="rows">
 	<div class="col-md-12">
 	<div class="col-md-9">
-		<div class="home">
+	<!--	<div class="home">
 		<h1>Never doubt that a small group of thoughtful, 
 		committed citizens can change the world. Indeed, it is the only thing that ever has</h1>
 		
-		</div>
+		</div>-->
 
 		
 	</div>
@@ -59,7 +67,7 @@
 	<div>
 		
 	<div class="col-md-3">	
-      		<br>
+      	<!--	<br>
       		<p> Sign Up now to help build a greener environment</p>
       		
       		<div class="form-group">
@@ -85,17 +93,20 @@
     	<center>
     	
       	<button type="submit" class="btn btn-default">Sign Up</button>
-      	</center>
+      	</center>-->
       	</div>
       	
       
 
 	</div>
-
       
     </div>
   </div>
 	</div>
+  <div class="foot">
+  <div class="col-md-12">
+    <h5>Brought to you by Microtron </h5>
+  </div>
     
 </body>
 </html>
