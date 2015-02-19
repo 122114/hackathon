@@ -38,11 +38,11 @@
   <div class="container-fluid">
     <div>
       <ul class="nav navbar-nav">
-        <li class="active"><a href="#">Home</a></li>
+        <li class="active"><a href="sponsoracct.php">Home</a></li>
         <li><a href="#">Amount Donated</a></li>
         <li><a href="#">Beneficiaries</a></li> 
         <li><a href="#">Event</a></li>
-         <li><a href="#">Donate</a></li> 
+         <li><a href="sponsordonate.php">Donate</a></li> 
       </ul>
     </div>
   </div>
