@@ -4,6 +4,12 @@ h1{
   text-shadow:1px 2px black;
 
 }
+h2{
+  font-family:Comic Sans Ms,bold;
+  color:white;
+ 
+
+}
 .navbar{
 	background-color:#bfe292;
   
@@ -115,5 +121,18 @@ label{
   background-color:#bfe292;;
 
 }
-
-
+.list-group-item{
+    background-color: green;
+    color:white;
+}
+.addbar label{
+    color:black;
+}
+.listbar{
+  color:black;
+  padding-left:20; 
+}
+.listbar h2{
+  color:black;
+  padding-left:20; 
+}
