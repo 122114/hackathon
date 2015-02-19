@@ -38,7 +38,7 @@
   <div class="container-fluid">
     <div>
       <ul class="nav navbar-nav">
-        <li><a href="spobsoracct.php">Home</a></li>
+        <li><a href="sponsoracct.php">Home</a></li>
         <li><a href="#">Amount Donated</a></li>
         <li><a href="#">Beneficiaries</a></li> 
         <li><a href="#">Event</a></li>
