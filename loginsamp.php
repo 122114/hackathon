@@ -50,8 +50,8 @@
   <div class="container-fluid">
     <div>
       <ul class="nav navbar-nav">
-        <li class="active"><a href="#">Home</a></li>
-        <li><a href="#">About Us</a></li>
+        <li class="active"><a href="loginsamp.php">Home</a></li>
+        <li><a href="about.php">About Us</a></li>
         <li><a href="#">Benefeciaries</a></li> 
         <li><a href="#">Event</a></li> 
       </ul>
