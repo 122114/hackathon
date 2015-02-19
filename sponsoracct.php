@@ -1,15 +1,12 @@
-<?php
-   include 'dbconnect.php'; 
-?>
 <html>
-<title>Home</title>
-    <head>
-            <meta name="viewport" content="width=device-width, initial-scale=1">
-            <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-
-            <link rel="stylesheet" href="css/bootstrap.css"/>
-            <link rel="stylesheet" href="css/newstyle.css"/>
-    </head>
+<title>Sample</title>
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+	
+	<link rel="stylesheet" href="css/bootstrap.css"/>
+	<link rel="stylesheet" href="css/newstyle.css"/>
+</head>
 	
 <body>
 	
@@ -20,11 +17,11 @@
 <nav class="navbar navbar-default navbar-static-top">
   <div class="container-fluid">
  	<div class="row">
- 		 <div class="col-md-5"><h1>Hello World</h1></div>
+ 		 <div class="col-md-5"><img src = "finaltitle.jpg"/></div>
  		 <br>
-    	 <div class="col-md-7"><form class="form-inline pull-right">
-  <div class="form-group">
- 
+   	 <div class="col-md-7"><form class="form-inline pull-right">
+  <!--<div class="form-group">
+    
     <label for="exampleInputName2">Username</label>
     <input type="text" class="form-control left-align" id="exampleInputName2">
   </div>
@@ -32,33 +29,40 @@
     <label for="exampleInputEmail2">Password</label>
     <input type="password" class="form-control" id="exampleInputEmail2">
   </div>
-  <button type="submit" class="btn btn-default">Login</button>
+  <button type="submit" class="btn btn-default">Login</button>-->
 </form></div>
     <div>
   </div>
 </nav>
-<ul class="nav nav-tabs">
-  <li role="presentation"><a href="#">Home</a></li>
-  <li role="presentation"><a href="#">About</a></li>
-  <li role="presentation"><a href="#">Benefactors</a></li>
-  <li role="presentation"><a href="#">Events</a></li>
-</ul>
+<nav class="navbar2 navbar-inverse">
+  <div class="container-fluid">
+    <div>
+      <ul class="nav navbar-nav">
+        <li class="active"><a href="#">Home</a></li>
+        <li><a href="#">Amount Donated</a></li>
+        <li><a href="#">Beneficiaries</a></li> 
+        <li><a href="#">Event</a></li>
+         <li><a href="#">Donate</a></li> 
+      </ul>
+    </div>
+  </div>
+</nav>
 
 	<div class="rows">
 	<div class="col-md-12">
 	<div class="col-md-9">
-		<div class="home">
+		<!--<div class="home">
 		<h1>Never doubt that a small group of thoughtful, 
 		committed citizens can change the world. Indeed, it is the only thing that ever has</h1>
 		
-		</div>
+		</div>-->
 
 		
 	</div>
 		
 	<div>
 		
-	<div class="col-md-3">	
+	<!--<div class="col-md-3">	
       		<br>
       		<p> Sign Up now to help build a greener environment</p>
       		
@@ -90,12 +94,25 @@
       	
       
 
-	</div>
+	</div>-->
 
       
     </div>
   </div>
 	</div>
-    
+</div>
+</div>
+<div class="foot">
+  <div class="col-md-12">
+    <h5>Brought to you by Microtron </h5>
+  </div>
+</div>
+
+	
+		
+	
+
+
+
 </body>
 </html>
