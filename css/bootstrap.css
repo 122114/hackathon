@@ -1869,6 +1869,7 @@ pre code {
   .col-sm-push-1 {
     left: 8.33333333%;
   }
+  
   .col-sm-push-0 {
     left: auto;
   }
@@ -1939,7 +1940,7 @@ pre code {
   }
   .col-md-5 {
     width: 41.66666667%;
-  }
+  } 
   .col-md-4 {
     width: 33.33333333%;
   }
